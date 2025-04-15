@@ -191,7 +191,7 @@ gantt
 
 ### 9.1 Open Source
 
-- Frontend: React Native repo (MIT License)
+- Frontend: React Native repo (Apache License)
 - Contracts: Solidity (GPL-3.0)
 
 
